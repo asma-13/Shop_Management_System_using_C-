@@ -122,7 +122,7 @@ Want to improve this project? Feel free to **fork, contribute, and submit pull r
 
 ## 📩 Contact
 
-📧 Email: [your-email@example.com](mailto:iasma.channa@gmail.com)  
-🔗 GitHub: [your-github-profile](https://github.com/asma-13)<br>
-🔗 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/iasmachanna)
+📧 Email: [Email_me](mailto:iasma.channa@gmail.com)  
+🔗 GitHub: [my_github-](https://github.com/asma-13)<br>
+🔗 LinkedIn: [my_linkedin](https://linkedin.com/in/iasmachanna)
 
